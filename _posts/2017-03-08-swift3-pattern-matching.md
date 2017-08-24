@@ -1,5 +1,3 @@
-# Swift 3 Pattern Matching
-
 Nearly two years ago, Natasha the Robot published a short blog about [pattern matching with the if case](https://www.natashatherobot.com/swift-2-pattern-matching-with-if-case/). While it provided an awesome intro into the `if case`, it was just that: an intro.
 
 By the end of this blog, you’ll be able to match & filter circles around your non-`case` using colleagues.
